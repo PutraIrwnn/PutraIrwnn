@@ -3,7 +3,7 @@
 <!-- Animated Header GIF -->
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="300"/>
 
-# 👋 Halo! Aku Putra Irwan
+# 👋 Halo! Aku Putra Salam kenal Ya !
 
 ### Frontend Developer | Suka Bikin Hal-Hal Menarik ✨
 
@@ -21,12 +21,11 @@
 const putra = {
     lokasi: "Indonesia 🇮🇩",
     peran: "Frontend Developer",
-    passion: ["Bikin UI/UX Menarik", "Mobile & Web Apps"],
-    sedangBelajar: "React Patterns & Best Practices",
+    passion: ["Cinta Ngoding", "Mobile & Web Apps"],
+    sedangBelajar: "Apapun Yang bisa dipelajari",
     skillSet: ["JavaScript", "React", "React Native"],
     tools: ["VS Code", "Git", "Figma"],
-    funFact: "Kopi = Bahan Bakar Ngoding ☕",
-    motto: "Keep learning, keep building! 🚀"
+    motto: "Terus belajar hal baru !"
 };
 ```
 
@@ -61,9 +60,9 @@ const putra = {
 - 🎨 Bikin interface yang responsive & eye-catching
 - 🌱 Belajar best practices frontend development
 - 🤝 Pengen banget kolaborasi di project open-source!
-- 💬 Boleh tanya-tanya tentang **React**, **JavaScript**, atau **mobile dev**
+- 💬 Pengen punya partner yg sejalan
 - ⚡ Percaya banget kalau UI/UX yang bagus bisa bikin perbedaan!
-- 📫 Hubungi aku kapan aja - always open untuk diskusi seru
+- 📫 Hubungi aku kapan aja entah itu mabar atau bikin project bareng!
 
 <br clear="right"/>
 
@@ -146,7 +145,7 @@ const putra = {
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
-*"Code yang bagus = passion + kesabaran + kopi ☕"*
+*"Code yang bagus = passion + kesabaran + Ngoding malem malem"*
 
 ---
 
@@ -154,6 +153,6 @@ const putra = {
 
 **✨ Thanks udah mampir! Kalau ada kesempatan, yuk bikin project bareng! ✨**
 
-<sub>💡 Fun fact: Star repo yang kamu suka - helps others discover cool stuff! 🌟</sub>
+<sub>💡 Fun fact: aku sangat suka baso malanggg enak bangetttt 😋</sub>
 
 </div>
